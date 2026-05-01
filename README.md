@@ -1,4 +1,4 @@
-#✨About Me
+# ✨About Me
 <br>I'm Son, a fullstack developer intern with a stronger focus on backend development.<br><br>I enjoy building real-world systems with clean API design, database modeling, validation, authentication and payment integration. Recently, I built a Parking Management System using React, Node.js, Express, PostgreSQL, and Prisma.<br><br>I'm open to internship fullstack developer opportunities, and always looking to learn, build, and grow through real projects.<br><br>🌱 Currently improving my backend engineering skills<br>💼 Open to work and collaboration opportunities<br>📫 Reach me at: phambason05@gmail.com
 
 
